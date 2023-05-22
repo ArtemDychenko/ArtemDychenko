@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! I'm Artem Dychenko, a student pursuing my Bachelor's degree in Informatics. My interests lie in areas like software development, data analysis, and web devepopment.
+Hey! I'm Artem Dychenko, a student pursuing Bachelor's degree in Informatics. My interests lie in areas like software development, data analysis, and web devepopment.
 
 🌱 I’m currently learning Java, Python and deepening my knowledge of C++. I also make algorithms and projects in the Linux environment.
 
